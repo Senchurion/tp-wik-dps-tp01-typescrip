@@ -13,10 +13,6 @@ Une fois Node.js installé, clonez ce dépôt sur votre machine locale en utilis
 ## Utilisation
 Pour démarrer le serveur, naviguez dans le répertoire du projet cloné et exécutez la commande suivante :
 
-`npx tsc`
-
-Puis ensuite lancer cette commande:
-
 `node build/index.js`
 
 Le serveur écoute par défaut sur le port 8080, mais vous pouvez définir un port différent en utilisant la variable d'environnement PING_LISTEN_PORT:
