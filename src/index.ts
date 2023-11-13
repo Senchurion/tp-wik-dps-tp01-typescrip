@@ -11,7 +11,7 @@ const server = HTTP.createServer((req, res) => {
   });
 
 const PING_LISTEN_PORT = 8080;
-const port = process.env.PORT || PING_LISTEN_PORT;
+const port = process.env.PING_LISTEN_PORT || PING_LISTEN_PORT;
 
 server.listen(port, () => {
 console.log(`Server is running on port ${port}. Go to http://localhost:${port}/`);
