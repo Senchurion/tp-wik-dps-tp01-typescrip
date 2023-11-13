@@ -8,7 +8,7 @@ Pour utiliser ce serveur, vous devez avoir Node.js installé sur votre machine. 
 
 Une fois Node.js installé, clonez ce dépôt sur votre machine locale en utilisant la commande suivante :
 
-`git clone https://github.com/Senchurion/tp-wik-dps-tp01-typescrip`
+`git clone https://github.com/Senchurion/tp-wik-dps-tp01-typescript`
 
 ## Utilisation
 Pour démarrer le serveur, naviguez dans le répertoire du projet cloné et exécutez la commande suivante :
